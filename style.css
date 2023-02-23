@@ -1,0 +1,26 @@
+body{
+  background-color: Grey
+  padding: 12px;
+  margin: 20px;
+}
+p {
+  font-size: 34px;
+  color: Grey;
+}
+h1{
+  font-style: italic;
+  font-family: Verdana;
+  font-size: 56px;
+  position: center;
+}
+.section_1{
+  color: black:inherit;
+  font-size: 23em;
+  font-family: sans-serif;
+}
+.section_2{
+  background-color: pink;
+  border-radius: 12px;
+  margin: 30px;
+  border-style: solid  green;
+}
